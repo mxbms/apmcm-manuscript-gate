@@ -1,0 +1,11 @@
+{
+  "status": "PENDING",
+  "final_manuscript": "PENDING",
+  "final_sha256": "PENDING",
+  "rules_check": "PENDING",
+  "findings_closed": false,
+  "gate_status_source": "02_registers/gate_decisions.csv",
+  "files": [],
+  "issuer": "PENDING",
+  "issued_at": "PENDING"
+}

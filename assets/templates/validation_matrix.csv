@@ -1,0 +1,2 @@
+﻿claim_id,validation_type,split_ids,train_scope,tuning_scope,test_scope,metric,baseline,result,leakage_check,evidence_level,claim_allowed,status
+PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING,PENDING
